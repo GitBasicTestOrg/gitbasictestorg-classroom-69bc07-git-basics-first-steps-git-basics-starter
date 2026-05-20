@@ -1,0 +1,5 @@
+Git Basics Task
+
+Step 1: complete first commit
+Step 2: complete second commit
+Step 3: complete third commit
